@@ -1,0 +1,93 @@
+announcement-bar-slider {
+  display: block;
+}
+
+.bar {
+  color: var(--color-heading-text);
+  font-size: var(--font-size-static-extra-small);
+  font-weight: var(--font-weight-normal);
+  letter-spacing: var(--letter-spacing-small);
+  line-height: 1.1;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: var(--color-body-background);
+  padding: .8rem 0;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+   width: 95%;
+}
+
+.bar__countdown-timer__text-content {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+}
+
+.bar__countdown-timer__date-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bar__countdown-timer__date-wrapper {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 0.8rem;
+  border: 0;
+}
+
+.bar__countdown-timer__date-wrapper-hidden {
+  display: none;
+}
+
+.bar__countdown-timer__date-wrapper.days:not(.bar__countdown-timer__date-wrapper-hidden) + .bar__countdown-timer__date-wrapper.hours,
+.bar__countdown-timer__date-wrapper.hours:not(.bar__countdown-timer__date-wrapper-hidden) + .bar__countdown-timer__date-wrapper.minutes,
+.bar__countdown-timer__date-wrapper.minutes:not(.bar__countdown-timer__date-wrapper-hidden) + .bar__countdown-timer__date-wrapper.seconds {
+  border-left: 1px solid var(--color-heading-text);
+}
+
+.bar__countdown-timer__date-wrapper:first-child {
+  padding-left: 0;
+}
+
+.bar__countdown-timer__date-wrapper:last-child {
+  padding-right: 0;
+}
+
+.bar__countdown-timer__date-caption {
+  text-transform: uppercase;
+}
+
+.bar__countdown-timer__date-wrapper.minutes + .bar__countdown-timer__date-wrapper.seconds.bar__countdown-timer__date-wrapper-hidden {
+  border-right: 0;
+}
+
+
+.bar p {
+  margin: 0 0 1rem;
+}
+
+.bar .bar__countdown-timer__text-content p {
+  margin-bottom: 0;
+}
+
+.bar p:last-child {
+  margin-bottom: 0;
+}
+
+.bar__swiper .swiper-wrapper {
+  align-items: center;
+}
+
+html.no-js .bar__swiper .swiper-wrapper {
+  display: grid;
+  row-gap: .8rem;
+}
+
+@media screen and (min-width: 750px) {
+  .bar {
+    padding: 1.2rem 0;
+  }
+}
