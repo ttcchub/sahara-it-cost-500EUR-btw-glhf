@@ -1,0 +1,869 @@
+Grid Schema:
+
+  <div class="grid-container grid-style">
+  </div>
+
+
+Svg icons:
+
+
+
+1) Recycled Fabric
+
+Constructed from fabrics that have been repurposed.
+
+
+    <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+
+		<svg xmlns="http://www.w3.org/2000/svg" style='display: flex; margin:auto;  align-items:center; text-align:center;'  width="57" height="47" viewBox="0 0 57 47">
+		  <g id="Recycled_Fabric_Icon" data-name="Recycled Fabric Icon" transform="translate(-1095.463 -326.467)">
+		    <rect id="Rectangle_659" data-name="Rectangle 659" width="57" height="47" transform="translate(1095.463 326.467)" fill="none"></rect>
+		    <g id="Group_1683" data-name="Group 1683" transform="translate(2.068 -71.806)">
+		      <path id="Path_2301" data-name="Path 2301" d="M-23203.121,8826.347l-3.258-3.445,3.258-3.343,3.482,3.343,3.629-3.343,3.428,3.343,3.449-3.343,3.748,3.343,3.172-3.343,3.795,3.343,3.258-3.343,3.768,3.343-3.768,3.445,3.768,3.438-3.768,3.73,3.768,3.227-3.768,3.779,3.768,3-3.768,3.743,3.768,3.523-3.768,3.49-3.258-3.49-3.795,3.49-3.172-3.49-3.748,3.49-3.449-3.49-3.428,3.49-3.629-3.49-3.482,3.49-3.258-3.49,3.258-3.523-3.258-3.39,3.258-3.356-3.258-3.779,3.258-3.227-3.258-3.73Z" transform="translate(24315.295 -8410.814)" fill="none" stroke="#000" stroke-width="1.5"></path>
+		      <path id="Path_2302" data-name="Path 2302" d="M-23202.684,8826.838l-3.7-3.937,3.258-3.343,3.482,3.343,3.629-3.343,3.428,3.343,3.449-3.343,3.748,3.343,3.172-3.343,3.795,3.343,3.258-3.343,3.768,3.343-3.768,3.445,3.768,3.438" transform="translate(24306.266 -8419.48)" fill="none" stroke="#000" stroke-width="1.5"></path>
+		      <path id="Path_2304" data-name="Path 2304" d="M-23196.01,8858.956l-3.629-3.491-3.482,3.491-3.258-3.491,3.258-3.521-3.258-3.056,3.258-3.689-3.258-3.779,3.258-3.229-3.258-3.729,3.258-3.153" transform="translate(24306.266 -8424.521)" fill="none" stroke="#000" stroke-width="1.5"></path>
+		      <path id="Path_2306" data-name="Path 2306" d="M-23208.838,8810.174l4.7,4.539" transform="translate(24318.955 -8405.952)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2307" data-name="Path 2307" d="M-23208.838,8810.174l4.7,4.539" transform="translate(24312.926 -8399.723)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2313" data-name="Path 2313" d="M0,2.941,2.941,0" transform="translate(1108.917 421.512) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2322" data-name="Path 2322" d="M0,2.941,2.941,0" transform="translate(1108.12 429.143) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2323" data-name="Path 2323" d="M0,2.941,2.941,0" transform="translate(1132.028 405.474) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2315" data-name="Path 2315" d="M0,3.086,3.086,0" transform="translate(1125.242 406.125) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2317" data-name="Path 2317" d="M-23214.877,8816.008l1.865,1.864" transform="translate(24320.594 -8409.994)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2318" data-name="Path 2318" d="M0,0,1.865,1.864" transform="translate(1118.312 404.26) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2319" data-name="Path 2319" d="M0,0,1.865,1.864" transform="translate(1105.717 416.251) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2320" data-name="Path 2320" d="M0,0,1.865,1.864" transform="translate(1104.089 424.453) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		      <path id="Path_2321" data-name="Path 2321" d="M0,0,1.053,1.051" transform="translate(1126.53 403.208) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+		    </g>
+		  </g>
+		</svg>
+        <br>
+            <span> 
+                Recycled Fabric
+            </span>
+         <br>
+        </div>
+           <span> 
+                Constructed from fabrics that have been repurposed.
+           </span>
+    </div>
+
+
+
+2) Breathable
+
+Fabric allows air and sweat to escape, keeping you cool on the run.
+
+
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+           
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Breathable_Icon" data-name="Breathable Icon" transform="translate(-1329.501 -263.297)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1329.501 263.297)" fill="none"></rect>
+    <g id="Group_1688" data-name="Group 1688" transform="translate(0.567 -1.372)">
+      <path id="Path_625" data-name="Path 625" d="M0,0V56.817" transform="translate(1385.751 293.007) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_626" data-name="Path 626" d="M0,0V56.817" transform="translate(1385.751 284.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_627" data-name="Path 627" d="M5769.043,327.792v17.256" transform="translate(-4422.614 -59.686)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_630" data-name="Path 630" d="M5769.043,327.792v12.934" transform="translate(-4411.701 -55.365)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_632" data-name="Path 632" d="M5769.043,327.792V345.41" transform="translate(-4400.789 -60.048)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_628" data-name="Path 628" d="M5769.043,327.792v12.945" transform="translate(-4422.614 -34.866)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_629" data-name="Path 629" d="M5769.043,327.792v16.6" transform="translate(-4411.701 -34.866)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_631" data-name="Path 631" d="M5769.043,327.792v12.945" transform="translate(-4400.789 -34.866)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_639" data-name="Path 639" d="M1347.045,271.526l4.964-6.657,4.921,6.657" transform="translate(-5.558 1.85)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_640" data-name="Path 640" d="M1347.045,271.526l4.964-6.657,4.921,6.657" transform="translate(16.267 1.801)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_641" data-name="Path 641" d="M1356.929,264.869l-4.964,6.657-4.921-6.657" transform="translate(5.355 38.508)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+              <br>
+              <span> Breathable</span>
+              <br>
+        </div>
+        Fabric allows air and sweat to escape, keeping you cool on the run.
+    </div>
+
+
+
+3)Antibacterial
+
+Wards off odours and keep the garment fresh run after run.
+
+
+
+    <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+           
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Antibacterial_Icon" data-name="Antibacterial Icon" transform="translate(-1145.349 -1070.306)">
+    <rect id="Rectangle_680" data-name="Rectangle 680" width="57" height="47" transform="translate(1145.349 1070.306)" fill="none"></rect>
+    <g id="Group_1693" data-name="Group 1693" transform="translate(0 1)">
+      <g id="Ellipse_151" data-name="Ellipse 151" transform="translate(1151.349 1070.306)" fill="none" stroke="#000" stroke-width="1.5">
+        <circle cx="22.5" cy="22.5" r="22.5" stroke="none"></circle>
+        <circle cx="22.5" cy="22.5" r="21.75" fill="none"></circle>
+      </g>
+      <g id="Group_1687" data-name="Group 1687" transform="translate(131.216 -1948.449)">
+        <path id="Path_2188" data-name="Path 2188" d="M1.89,6.7a10.449,10.449,0,0,0-.5-2.1A6.4,6.4,0,0,0,.474,3.14,2.1,2.1,0,0,1,.1,1.193,1.682,1.682,0,0,1,1.89,0,1.613,1.613,0,0,1,3.513,1.193,2.32,2.32,0,0,1,3.281,3.14c-.392.661-.623.828-.711,1.463s-.16,2.1-.16,2.1" transform="translate(1031.546 3032.692) rotate(-45)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2189" data-name="Path 2189" d="M1.89,6.7a10.449,10.449,0,0,0-.5-2.1A6.4,6.4,0,0,0,.474,3.14,2.1,2.1,0,0,1,.1,1.193,1.682,1.682,0,0,1,1.89,0,1.613,1.613,0,0,1,3.513,1.193,2.32,2.32,0,0,1,3.281,3.14c-.392.661-.623.828-.711,1.463s-.16,2.1-.16,2.1" transform="matrix(-0.276, -0.961, 0.961, -0.276, 1028.954, 3047.836)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2190" data-name="Path 2190" d="M1.89,6.7a10.449,10.449,0,0,0-.5-2.1A6.4,6.4,0,0,0,.474,3.14,2.1,2.1,0,0,1,.1,1.193,1.682,1.682,0,0,1,1.89,0,1.613,1.613,0,0,1,3.513,1.193,2.32,2.32,0,0,1,3.281,3.14c-.392.661-.623.828-.711,1.463s-.16,2.1-.16,2.1" transform="translate(1049.983 3054.1) rotate(163)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2191" data-name="Path 2191" d="M1.89,7.7a13.519,13.519,0,0,0-.5-2.415A7.61,7.61,0,0,0,.474,3.608,2.707,2.707,0,0,1,.1,1.371,1.711,1.711,0,0,1,1.89,0,1.669,1.669,0,0,1,3.513,1.371a3.015,3.015,0,0,1-.233,2.237A4.161,4.161,0,0,0,2.57,5.288C2.483,6.017,2.41,7.7,2.41,7.7" transform="translate(1057.028 3035.382) rotate(79)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2192" data-name="Path 2192" d="M1.427,5.818a10.21,10.21,0,0,0-.38-1.824A5.748,5.748,0,0,0,.358,2.725,2.044,2.044,0,0,1,.075,1.035,1.292,1.292,0,0,1,1.427,0,1.26,1.26,0,0,1,2.653,1.035a2.277,2.277,0,0,1-.176,1.689,3.142,3.142,0,0,0-.537,1.269c-.066.55-.121,1.824-.121,1.824" transform="matrix(0.956, 0.292, -0.292, 0.956, 1044.64, 3027.348)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2193" data-name="Path 2193" d="M1.427,5.306a8.6,8.6,0,0,0-.38-1.663A5.113,5.113,0,0,0,.358,2.485,1.729,1.729,0,0,1,.075.944,1.275,1.275,0,0,1,1.427,0,1.229,1.229,0,0,1,2.653.944a1.914,1.914,0,0,1-.176,1.541,2.738,2.738,0,0,0-.537,1.158c-.066.5-.121,1.663-.121,1.663" transform="translate(1041.934 3053.929) rotate(-163)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2199" data-name="Path 2199" d="M1.427,0a8.6,8.6,0,0,1-.38,1.663A5.114,5.114,0,0,1,.358,2.82a1.729,1.729,0,0,0-.283,1.54A1.274,1.274,0,0,0,1.427,5.3a1.229,1.229,0,0,0,1.226-.944,1.913,1.913,0,0,0-.175-1.54,2.736,2.736,0,0,1-.536-1.157C1.875,1.161,1.82,0,1.82,0" transform="matrix(0.122, -0.993, 0.993, 0.122, 1050.549, 3044.268)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <g id="Ellipse_109" data-name="Ellipse 109" transform="matrix(0.839, -0.545, 0.545, 0.839, 1031.003, 3038.725)" fill="none" stroke="#000" stroke-width="1.5">
+          <ellipse cx="8.395" cy="8.395" rx="8.395" ry="8.395" stroke="none"></ellipse>
+          <ellipse cx="8.395" cy="8.395" rx="7.645" ry="7.645" fill="none"></ellipse>
+        </g>
+        <g id="Ellipse_110" data-name="Ellipse 110" transform="matrix(0.839, -0.545, 0.545, 0.839, 1036.056, 3040.903)" fill="none" stroke="#000" stroke-width="1.5">
+          <ellipse cx="2.29" cy="2.29" rx="2.29" ry="2.29" stroke="none"></ellipse>
+          <ellipse cx="2.29" cy="2.29" rx="1.54" ry="1.54" fill="none"></ellipse>
+        </g>
+        <g id="Ellipse_112" data-name="Ellipse 112" transform="matrix(0.839, -0.545, 0.545, 0.839, 1042.808, 3042.89)" fill="none" stroke="#000" stroke-width="1.5">
+          <ellipse cx="1.908" cy="1.908" rx="1.908" ry="1.908" stroke="none"></ellipse>
+          <ellipse cx="1.908" cy="1.908" rx="1.158" ry="1.158" fill="none"></ellipse>
+        </g>
+      </g>
+      <line id="Line_583" data-name="Line 583" x2="30" y2="31" transform="translate(1159.849 1075.806)" fill="none" stroke="#000" stroke-width="1.5"></line>
+    </g>
+  </g>
+</svg>
+              <br>
+              <span> Antibacterial</span>
+              <br>
+        </div>
+        Wards off odours and keep the garment fresh run after run.
+    </div>
+
+
+
+4) Mid-weight
+
+Mid-weight fabric and minimised construction ensures you hardly notice the garment on the run.
+
+
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+           
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Mid-weight_Icon" data-name="Mid-weight Icon" transform="translate(2.064 1.805)">
+    <rect id="Rectangle_674" data-name="Rectangle 674" width="57" height="47" transform="translate(-2.064 -1.805)" fill="none"></rect>
+    <g id="Group_1689" data-name="Group 1689" transform="translate(0.159 -1.197)">
+      <g id="Group_1577" data-name="Group 1577" transform="translate(0.958 7.373)">
+        <path id="Path_617" data-name="Path 617" d="M0,0V50.637" transform="translate(50.637 33.682) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <g id="Group_1709" data-name="Group 1709" transform="translate(-384.612 -3228.981)">
+          <path id="Path_2437" data-name="Path 2437" d="M1899.66,3241.3l15.351-9.273,5.471.924-2.977-2.327,5.8-3.189s5.608-2.613,9.264,1.105,0,8.031,0,8.031l-1.652-2.153v4.26a19.167,19.167,0,0,1-3.285,2.622c-1.371.729-3.474,1.564-3.474,1.564l-.853-2.237-4.356,3.948a20.6,20.6,0,0,1-11.186.939C1901.491,3244.3,1899.66,3241.3,1899.66,3241.3Z" transform="translate(-1510 -0.485)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"></path>
+          <path id="Path_2438" data-name="Path 2438" d="M1940.316,3223.725s-11.127,9.976-21.671,13.354a79.489,79.489,0,0,1-18.329,3.765" transform="translate(-1510.113)" fill="none" stroke="#000" stroke-width="1.5"></path>
+          <path id="Path_2439" data-name="Path 2439" d="M1901.751,3252.946a6.5,6.5,0,0,0,3.789,6.148" transform="translate(-1510.359 -5.038)" fill="none" stroke="#000" stroke-width="1.4"></path>
+          <path id="Path_2440" data-name="Path 2440" d="M1939.1,3252.114s3.6.611,3.965-3.99" transform="translate(-1516.801 -4.207)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+              <br>
+              <span> Mid-weight </span>
+              <br>
+        </div>
+Mid-weight fabric and minimised construction ensures you hardly notice the garment on the run.    </div>
+
+
+
+5) 3-D Textured Weave
+
+Enhances the fabric’s breathability and moves sweat fast without clinginess.
+
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+           
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="_3d_Textured_Weave_Icon" data-name="3d Textured Weave Icon" transform="translate(-1326.158 -263.895)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1326.158 263.895)" fill="none"></rect>
+    <g id="Group_1706" data-name="Group 1706" transform="translate(-59.205 1.631)">
+      <path id="Path_2406" data-name="Path 2406" d="M1390.235,292.856l9.045-8.316" transform="translate(-0.064 -3.087)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2412" data-name="Path 2412" d="M1390.235,292.856l9.045-8.316" transform="translate(12.762 8.634)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2409" data-name="Path 2409" d="M1390.235,293.642l9.9-9.1" transform="translate(12.386 -3.432)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2413" data-name="Path 2413" d="M1390.235,293.642l9.9-9.1" transform="translate(24.972 -3.432)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2415" data-name="Path 2415" d="M1390.235,293.642l9.9-9.1" transform="translate(25.22 8.317)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2407" data-name="Path 2407" d="M1390.235,293.2l9.422-8.662" transform="translate(12.386 -15.058)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2410" data-name="Path 2410" d="M1390.235,293.2l9.422-8.662" transform="translate(25.211 -15.058)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2418" data-name="Path 2418" d="M0,9.183,9.808,0" transform="matrix(0.087, 0.996, -0.996, 0.087, 1418.094, 274.627)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2419" data-name="Path 2419" d="M0,9.183,9.808,0" transform="matrix(0.087, 0.996, -0.996, 0.087, 1418.094, 286.598)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2420" data-name="Path 2420" d="M0,9.183,9.808,0" transform="matrix(0.087, 0.996, -0.996, 0.087, 1417.541, 297.714)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2421" data-name="Path 2421" d="M0,9.183,9.808,0" transform="matrix(0.087, 0.996, -0.996, 0.087, 1430.719, 285.784)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2422" data-name="Path 2422" d="M0,9.183,9.808,0" transform="matrix(0.087, 0.996, -0.996, 0.087, 1430.719, 274.627)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2423" data-name="Path 2423" d="M0,9.183,9.808,0" transform="matrix(0.087, 0.996, -0.996, 0.087, 1418.366, 263.242)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2424" data-name="Path 2424" d="M0,9.183,9.808,0" transform="matrix(0.087, 0.996, -0.996, 0.087, 1405.43, 274.627)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2425" data-name="Path 2425" d="M0,9.183,9.808,0" transform="matrix(0.087, 0.996, -0.996, 0.087, 1405.43, 286.598)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2417" data-name="Path 2417" d="M1390.235,293.2l9.422-8.662" transform="translate(38.276 -3.087)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2408" data-name="Path 2408" d="M1390.235,287.576l3.3-3.036" transform="translate(24.859 -20.74)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2411" data-name="Path 2411" d="M1390.235,287.576l3.3-3.036" transform="translate(6.047 8.099)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2416" data-name="Path 2416" d="M1390.235,287.576l3.3-3.036" transform="translate(18.984 19.914)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2426" data-name="Path 2426" d="M0,3.036,3.3,0" transform="matrix(0.105, 0.995, -0.995, 0.105, 1424.59, 298.357)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2427" data-name="Path 2427" d="M0,3.036,3.3,0" transform="matrix(0.105, 0.995, -0.995, 0.105, 1437.588, 286.514)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2428" data-name="Path 2428" d="M0,3.036,3.3,0" transform="matrix(0.105, 0.995, -0.995, 0.105, 1405.639, 269.315)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2429" data-name="Path 2429" d="M0,3.036,3.3,0" transform="matrix(0.105, 0.995, -0.995, 0.105, 1392.813, 281.05)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2414" data-name="Path 2414" d="M1390.235,287.576l3.3-3.036" transform="translate(38.037 -9.002)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+              <br>
+              <span> 3-D Textured Weave</span>
+              <br>
+        </div>
+Enhances the fabric’s breathability and moves sweat fast without clinginess.   </div>
+
+6)Functional
+
+Designed to optimise on-run utility.
+
+
+    <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+           
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;'
+ width="57" height="47" viewBox="0 0 57 47">
+  <g id="Functional_Icon" data-name="Functional Icon" transform="translate(-1050.814 -2178)">
+    <rect id="Rectangle_687" data-name="Rectangle 687" width="57" height="47" transform="translate(1050.814 2178)" fill="none"></rect>
+    <g id="Group_1582" data-name="Group 1582" transform="translate(-1.186)">
+      <path id="Path_2274" data-name="Path 2274" d="M1170.62,1071.488v6.27" transform="translate(2152.373 1031.074) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2275" data-name="Path 2275" d="M1170.62,1071.488v6.27" transform="translate(2161.373 1031.074) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2276" data-name="Path 2276" d="M1170.62,1071.488v6.27" transform="translate(2170.373 1031.074) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2277" data-name="Path 2277" d="M1170.62,1071.488v6.27" transform="translate(2179.373 1031.074) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2278" data-name="Path 2278" d="M8786.577,2211.992l-27.289-15.67" transform="translate(-7700)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2279" data-name="Path 2279" d="M8786.577,2196.322l-27.289,15.67" transform="translate(-7700 -5)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <g id="Ellipse_138" data-name="Ellipse 138" transform="translate(1053 2186)" fill="none" stroke="#000" stroke-width="1.5">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"></circle>
+        <circle cx="5.5" cy="5.5" r="4.75" fill="none"></circle>
+      </g>
+      <g id="Ellipse_139" data-name="Ellipse 139" transform="translate(1053 2206)" fill="none" stroke="#000" stroke-width="1.5">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"></circle>
+        <circle cx="5.5" cy="5.5" r="4.75" fill="none"></circle>
+      </g>
+    </g>
+  </g>
+</svg>
+              <br>
+              <span> Functional </span>
+              <br>
+        </div>
+        Designed to optimise on-run utility. 
+         </div>
+
+
+7)Pocket Zip
+
+To keep your on-run essentials safe and secure.
+   <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+           
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Pocket_Zip_Icon" data-name="Pocket Zip Icon" transform="translate(-1145.349 -1070.306)">
+    <rect id="Rectangle_680" data-name="Rectangle 680" width="57" height="47" transform="translate(1145.349 1070.306)" fill="none"></rect>
+    <path id="Path_2341" data-name="Path 2341" d="M1941.279,3189.525h38.288v35.123l-19.352,7.909-18.936-7.909Z" transform="translate(-786.548 -2117.252)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"></path>
+    <g id="Group_1697" data-name="Group 1697" transform="translate(602.903 -2001.694)">
+      <path id="Path_2345" data-name="Path 2345" d="M2062.016,3085.077h27.253" transform="translate(-1510)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2346" data-name="Path 2346" d="M2066.97,3082.616v4.741" transform="translate(-1511 0.013)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2347" data-name="Path 2347" d="M2066.97,3082.616v4.741" transform="translate(-1506 0.013)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2348" data-name="Path 2348" d="M2066.97,3082.616v4.741" transform="translate(-1501 0.013)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2349" data-name="Path 2349" d="M2066.97,3082.616v4.741" transform="translate(-1496.024 0.013)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2350" data-name="Path 2350" d="M2066.97,3082.616v4.741" transform="translate(-1491.024 0.013)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <g id="Rectangle_688" data-name="Rectangle 688" transform="translate(579 3083)" fill="none" stroke="#000" stroke-width="1.5">
+        <rect width="5" height="4" stroke="none"></rect>
+        <rect x="0.75" y="0.75" width="3.5" height="2.5" fill="none"></rect>
+      </g>
+      <path id="Path_2351" data-name="Path 2351" d="M2093.3,3085.429s7.919-3.145,8.086,0-3.509,2.513-8.086.8" transform="translate(-1510 -0.774)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+              <br>
+              <span> Pocket Zip </span>
+              <br>
+        </div>
+        To keep your on-run essentials safe and secure.
+         </div>
+
+
+
+8)Laser-Cut
+
+Minimises the weight of the garment, improves comfort and prevents the fraying of hems.
+ <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+<svg xmlns="http://www.w3.org/2000/svg" style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Laser-cut_Icon" data-name="Laser-cut Icon" transform="translate(-1145.349 -1070.306)">
+    <rect id="Rectangle_680" data-name="Rectangle 680" width="57" height="47" transform="translate(1145.349 1070.306)" fill="none"></rect>
+    <g id="Group_1581" data-name="Group 1581" transform="translate(3.611 1.445)">
+      <path id="Path_2266" data-name="Path 2266" d="M1170.62,1071.488v11.17" transform="translate(2.868 -1.627)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2267" data-name="Path 2267" d="M1170.62,1071.488v11.17" transform="translate(2.868 31.853)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2270" data-name="Path 2270" d="M0,0V21.33" transform="translate(1195.948 1070.979) rotate(45)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2272" data-name="Path 2272" d="M0,21.33V0" transform="translate(1166.38 1086.06) rotate(135)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2271" data-name="Path 2271" d="M0,21.33V0" transform="translate(1180.865 1099.429) rotate(-45)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2273" data-name="Path 2273" d="M0,0V21.33" transform="translate(1151.299 1114.511) rotate(-135)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2268" data-name="Path 2268" d="M0,0V11.17" transform="translate(1195.946 1092.896) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2269" data-name="Path 2269" d="M0,0V25.541" transform="translate(1170.279 1092.896) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <g id="Ellipse_137" data-name="Ellipse 137" transform="translate(1169.581 1088.99)" fill="none" stroke="#000" stroke-width="1.5">
+        <circle cx="3.906" cy="3.906" r="3.906" stroke="none"></circle>
+        <circle cx="3.906" cy="3.906" r="3.156" fill="none"></circle>
+      </g>
+    </g>
+  </g>
+</svg>
+              <br>
+              <span> Laser-Cut </span>
+              <br>
+        </div>
+Minimises the weight of the garment, improves comfort and prevents the fraying of hems.
+</div>
+
+
+9)Ergonomic
+
+Efficient design that optimises freedom of movement whilst in the running motion.
+ <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Ergonomic_Icon" data-name="Ergonomic Icon" transform="translate(-1145.349 -1070.306)">
+    <rect id="Rectangle_680" data-name="Rectangle 680" width="57" height="47" transform="translate(1145.349 1070.306)" fill="none"></rect>
+    <g id="Group_1693" data-name="Group 1693" transform="translate(0 1)">
+      <g id="Ellipse_151" data-name="Ellipse 151" transform="translate(1151.349 1070.306)" fill="none" stroke="#000" stroke-width="1.5">
+        <circle cx="22.5" cy="22.5" r="22.5" stroke="none"></circle>
+        <circle cx="22.5" cy="22.5" r="21.75" fill="none"></circle>
+      </g>
+    </g>
+    <g id="Group_1732" data-name="Group 1732" transform="translate(1151.996 1078.719)">
+      <g id="Ellipse_154" data-name="Ellipse 154" transform="translate(17.806)" fill="none" stroke="#000" stroke-width="1.5">
+        <circle cx="4.047" cy="4.047" r="4.047" stroke="none"></circle>
+        <circle cx="4.047" cy="4.047" r="3.297" fill="none"></circle>
+      </g>
+    </g>
+    <path id="Path_2485" data-name="Path 2485" d="M1174.192,1086.813v14.764" transform="translate(-0.343 -1.091)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <g id="Group_1733" data-name="Group 1733" transform="translate(967.248 -2349.259)">
+      <path id="Path_2486" data-name="Path 2486" d="M1715.445,3438.413l-17.612-2.186" transform="translate(-1509.317 2.465)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2488" data-name="Path 2488" d="M19.925,5.55,0,0" transform="translate(189.228 3429.143) rotate(19)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2489" data-name="Path 2489" d="M19.662-1.565-.263,3.985" transform="translate(224.82 3432.997) rotate(161)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2487" data-name="Path 2487" d="M1697.833,3438.413l18.4-2.186" transform="translate(-1491.706 2.465)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2491" data-name="Path 2491" d="M1715.818,3447.3l-10.251,14.721" transform="translate(-1509.272 0.234)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2492" data-name="Path 2492" d="M1705.567,3447.294l10.75,14.982" transform="translate(-1499.333 -0.026)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <g id="Rectangle_690" data-name="Rectangle 690" transform="translate(188 3426)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5">
+        <rect width="37" height="40" stroke="none"></rect>
+        <rect x="0.75" y="0.75" width="35.5" height="38.5" fill="none"></rect>
+      </g>
+      <path id="Path_2493" data-name="Path 2493" d="M1716.163,3449.012l-3.367,15.378" transform="translate(-1510.437 -0.39)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2494" data-name="Path 2494" d="M1712.8,3449.012l3.367,15.378" transform="translate(-1505.452 -0.39)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+              <br>
+              <span> Ergonomic </span>
+              <br>
+        </div>
+Efficient design that optimises freedom of movement whilst in the running motion.
+</div>
+
+10)Quick Drying
+
+A fabric designed to effectively move sweat towards to the outer edge of the garment to be evaporated, keeping you comfortable as you up the intensity.
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Quick_Drying_Icon" data-name="Quick Drying Icon" transform="translate(-1329.393 -261.734)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1329.393 261.734)" fill="none"></rect>
+    <g id="Group_1691" data-name="Group 1691" transform="translate(1329.393 265.734)">
+      <path id="Path_625" data-name="Path 625" d="M0,0V56.817" transform="translate(56.817 39.925) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2291" data-name="Path 2291" d="M0,0V56.817" transform="translate(56.853 34.925) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_639" data-name="Path 639" d="M1347.045,271.526l4.948-6.657,4.905,6.657" transform="translate(-1334.35 -264.819)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_640" data-name="Path 640" d="M1347.045,271.526l4.948-6.657,4.905,6.657" transform="translate(-1312.594 -264.869)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <g id="Group_1680" data-name="Group 1680" transform="translate(2.338 15.238)">
+        <path id="Path_2218" data-name="Path 2218" d="M5128.817,5903.522s-.569.917-1.417,2.215c-.623.952-1.544,2.2-1.544,3.29a2.945,2.945,0,0,0,2.961,3.25" transform="translate(-5125.856 -5903.522)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Path_2219" data-name="Path 2219" d="M5125.856,5903.522s.569.917,1.416,2.215c.623.952,1.545,2.2,1.545,3.29a2.945,2.945,0,0,1-2.961,3.25" transform="translate(-5122.78 -5903.522)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+      </g>
+      <g id="Group_1681" data-name="Group 1681" transform="translate(47.125 12.837)">
+        <path id="Path_2218-2" data-name="Path 2218" d="M5129.1,5903.522s-.622,1-1.55,2.426c-.682,1.041-1.691,2.406-1.691,3.6a3.224,3.224,0,0,0,3.241,3.558" transform="translate(-5125.856 -5903.522)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Path_2219-2" data-name="Path 2219" d="M5125.856,5903.522s.623,1,1.55,2.426c.682,1.041,1.69,2.406,1.69,3.6a3.224,3.224,0,0,1-3.241,3.558" transform="translate(-5122.488 -5903.522)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+      </g>
+      <g id="Group_1682" data-name="Group 1682" transform="translate(23.436 18.041)">
+        <path id="Path_2218-3" data-name="Path 2218" d="M5129.881,5903.521s-.773,1.247-1.925,3.012c-.847,1.295-2.1,2.989-2.1,4.473,0,3.239,2.25,4.431,4.025,4.418" transform="translate(-5125.856 -5903.521)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Path_2219-3" data-name="Path 2219" d="M5125.856,5903.521s.774,1.247,1.925,3.012c.847,1.295,2.1,2.989,2.1,4.473,0,3.239-2.25,4.431-4.025,4.418" transform="translate(-5121.674 -5903.521)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+      </g>
+      <path id="Path_2299" data-name="Path 2299" d="M5769.043,327.792V345.41" transform="translate(-5751.5 -327.135)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2300" data-name="Path 2300" d="M5769.043,327.792V345.41" transform="translate(-5729.631 -327.135)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2334" data-name="Path 2334" d="M5769.043,327.792v2.987" transform="translate(-5762.442 -290.717)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2335" data-name="Path 2335" d="M5769.043,327.792v2.987" transform="translate(-5751.77 -292.717)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2336" data-name="Path 2336" d="M5769.043,327.792v2.987" transform="translate(-5729.078 -292.704)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2337" data-name="Path 2337" d="M5769.043,327.792v2.987" transform="translate(-5740.424 -290.717)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2338" data-name="Path 2338" d="M5769.043,327.792v2.987" transform="translate(-5718.406 -290.717)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+
+              <br>
+              <span> Quick Drying
+ </span>
+              <br>
+        </div>
+A fabric designed to effectively move sweat towards to the outer edge of the garment to be evaporated, keeping you comfortable as you up the intensity.
+</div>
+
+
+11)Silicone Grippers
+
+Prevents unwanted movement of the garment ensuring it secured against the skin in the right places.
+
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Silicone_Grippers_Icon" data-name="Silicone Grippers Icon" transform="translate(-1145.349 -1070.306)">
+    <rect id="Rectangle_680" data-name="Rectangle 680" width="57" height="47" transform="translate(1145.349 1070.306)" fill="none"></rect>
+    <g id="Group_1693" data-name="Group 1693" transform="translate(0 1)">
+      <g id="Ellipse_151" data-name="Ellipse 151" transform="translate(1151.349 1070.306)" fill="none" stroke="#000" stroke-width="1.5">
+        <circle cx="22.5" cy="22.5" r="22.5" stroke="none"></circle>
+        <circle cx="22.5" cy="22.5" r="21.75" fill="none"></circle>
+      </g>
+    </g>
+    <g id="Polygon_3" data-name="Polygon 3" transform="translate(1154.891 1072.306)" fill="none">
+      <path d="M19,0,38,34H0Z" stroke="none"></path>
+      <path d="M 19 3.07490348815918 L 2.556564331054688 32.5 L 35.44343566894531 32.5 L 19 3.07490348815918 M 19 0 L 38 34 L 0 34 L 19 0 Z" stroke="none" fill="#000"></path>
+    </g>
+  </g>
+</svg>
+
+              <br>
+              <span> Silicone Grippers</span>
+              <br>
+        </div> Prevents unwanted movement of the garment ensuring it secured against the skin in the right places. </div>
+
+
+
+
+12)Pocket Key
+Designed to hold your on-run essentials.
+
+ <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Pocket_Key_Icon" data-name="Pocket Key Icon" transform="translate(-1145.349 -1070.306)">
+    <rect id="Rectangle_680" data-name="Rectangle 680" width="57" height="47" transform="translate(1145.349 1070.306)" fill="none"></rect>
+    <path id="Path_2342" data-name="Path 2342" d="M1941.279,3189.525h38.288v35.123l-19.352,7.909-18.936-7.909Z" transform="translate(-786.521 -2117.252)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"></path>
+  </g>
+</svg>
+
+              <br>
+              <span> Pocket Key </span>
+              <br>
+        </div> Designed to hold your on-run essentials.</div>
+
+
+
+13)Sweat Wicking
+
+Draws sweat away from the body - fast.
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style='display: flex; margin:auto;  align-items:center; text-align:center;'  width="57" height="47.349" viewBox="0 0 57 47.349">
+  <g id="Sweat_Wicking_Icon" data-name="Sweat Wicking Icon" transform="translate(-1326.158 -263.545)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1326.158 263.895)" fill="none"></rect>
+    <g id="Group_1702" data-name="Group 1702" transform="translate(259.892 -2838.243)">
+      <path id="Path_2396" data-name="Path 2396" d="M2581.5,3135.368s5.79-6.528,14.123-6.666,9.742,5.105,16.784,5.223,15.62-7.106,15.62-7.106" transform="translate(-1510 -7.033)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2397" data-name="Path 2397" d="M1347.045,269.556l3.484-4.687,3.454,4.687" transform="translate(-243.833 2844.811)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2398" data-name="Path 2398" d="M5769.043,327.792V340.2" transform="translate(-4662.419 2782.316)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2399" data-name="Path 2399" d="M1347.045,269.556l3.484-4.687,3.454,4.687" transform="translate(-267.661 2838.181)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2402" data-name="Path 2402" d="M1347.045,269.556l3.484-4.687,3.454,4.687" transform="translate(-255.747 2841.381)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2400" data-name="Path 2400" d="M5769.043,327.792V340.2" transform="translate(-4686.247 2775.685)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2401" data-name="Path 2401" d="M5769.043,327.792V340.2" transform="translate(-4674.333 2778.885)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <g id="Group_1703" data-name="Group 1703" transform="translate(1078.35 3127.018)">
+        <path id="Path_2218" data-name="Path 2218" d="M5130.107,5903.521s-.817,1.317-2.033,3.182c-.894,1.368-2.218,3.157-2.218,4.724,0,3.42,2.376,4.68,4.251,4.667" transform="translate(-5125.856 -5903.521)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Path_2219" data-name="Path 2219" d="M5125.856,5903.521s.817,1.317,2.033,3.182c.895,1.368,2.218,3.157,2.218,4.724,0,3.42-2.376,4.68-4.251,4.667" transform="translate(-5121.439 -5903.521)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+      </g>
+      <g id="Group_1704" data-name="Group 1704" transform="translate(1090.432 3131.429)">
+        <path id="Path_2218-2" data-name="Path 2218" d="M5130.107,5903.521s-.817,1.317-2.033,3.182c-.894,1.368-2.218,3.157-2.218,4.724,0,3.42,2.376,4.68,4.251,4.667" transform="translate(-5125.856 -5903.521)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Path_2219-2" data-name="Path 2219" d="M5125.856,5903.521s.817,1.317,2.033,3.182c.895,1.368,2.218,3.157,2.218,4.724,0,3.42-2.376,4.68-4.251,4.667" transform="translate(-5121.439 -5903.521)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+      </g>
+      <g id="Group_1705" data-name="Group 1705" transform="translate(1102.513 3135.654)">
+        <path id="Path_2218-3" data-name="Path 2218" d="M5130.107,5903.521s-.817,1.317-2.033,3.182c-.894,1.368-2.218,3.157-2.218,4.724,0,3.42,2.376,4.68,4.251,4.667" transform="translate(-5125.856 -5903.521)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Path_2219-3" data-name="Path 2219" d="M5125.856,5903.521s.817,1.317,2.033,3.182c.895,1.368,2.218,3.157,2.218,4.724,0,3.42-2.376,4.68-4.251,4.667" transform="translate(-5121.439 -5903.521)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+
+
+              <br>
+              <span> Sweat Wicking</span>
+              <br>
+        </div> Draws sweat away from the body - fast. </div>
+
+
+14)Durable Water Repellent
+
+Fabric treatment enabling water resistance in lightweight fabrics.
+
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Durable_Icon" data-name="Durable Icon" transform="translate(-1326.158 -263.895)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1326.158 263.895)" fill="none"></rect>
+    <path id="Path_2403" data-name="Path 2403" d="M2657.485,3071.017l17.975-5.52,17.444,5.52V3082.9s.607,11.311-5.319,18.078a41.83,41.83,0,0,1-12.125,9.693s-9.66-3.691-13.348-9.693-4.534-11.587-4.627-18.078S2657.485,3071.017,2657.485,3071.017Z" transform="translate(-1320.525 -2800.691)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"></path>
+    <path id="Path_2404" data-name="Path 2404" d="M2657.472,3069.312l12.423-3.815,12.056,3.815v8.215s.419,7.817-3.676,12.493a28.909,28.909,0,0,1-8.38,6.7s-6.676-2.551-9.225-6.7-3.134-8.008-3.2-12.493S2657.472,3069.312,2657.472,3069.312Z" transform="translate(-1315.091 -2793.989)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"></path>
+    <path id="Path_2405" data-name="Path 2405" d="M2694.83,3091.491l3.963,3.662,7.955-9.812" transform="translate(-1345.538 -2804.823)" fill="none" stroke="#000" stroke-width="1.5"></path>
+  </g>
+</svg>
+
+              <br>
+              <span> Durable Water Repellent </span>
+              <br>
+        </div> Fabric treatment enabling water resistance in lightweight fabrics.
+ </div>
+
+15)Insulated
+
+This fabric excels at preventing the loss of heat and repelling the cold.
+
+
+    <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Insulated_Icon" data-name="Insulated Icon" transform="translate(2.648 -0.408)">
+    <rect id="Rectangle_674" data-name="Rectangle 674" width="57" height="47" transform="translate(-2.648 0.408)" fill="none"></rect>
+    <g id="Group_1690" data-name="Group 1690">
+      <g id="Group_1678" data-name="Group 1678" transform="translate(86.683 1.787) rotate(90)">
+        <path id="Path_617" data-name="Path 617" d="M0,0V43.44" transform="translate(43.44 33.682) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      </g>
+      <g id="Group_1679" data-name="Group 1679" transform="translate(70.683 1.787) rotate(90)">
+        <path id="Path_617-2" data-name="Path 617" d="M0,0V43.44" transform="translate(43.44 33.682) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      </g>
+      <path id="Path_2289" data-name="Path 2289" d="M0,0V25.49" transform="translate(23.97 7.477) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2290" data-name="Path 2290" d="M1347.045,271.526l4.964-6.657,4.921,6.657" transform="translate(289.913 -1344.511) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2289-2" data-name="Path 2289" d="M0,0V25.49" transform="translate(23.97 23.508) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2290-2" data-name="Path 2290" d="M1347.045,271.526l4.964-6.657,4.921,6.657" transform="translate(289.913 -1328.48) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2289-3" data-name="Path 2289" d="M0,0V25.49" transform="translate(23.97 39.785) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2290-3" data-name="Path 2290" d="M1347.045,271.526l4.964-6.657,4.921,6.657" transform="translate(289.913 -1312.203) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <g id="Ellipse_142" data-name="Ellipse 142" transform="translate(38.133 6.219)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+      <g id="Ellipse_143" data-name="Ellipse 143" transform="translate(44.133 11.535)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+      <g id="Ellipse_148" data-name="Ellipse 148" transform="translate(46.707 1.787)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+      <g id="Ellipse_144" data-name="Ellipse 144" transform="translate(37.13 17.532)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+      <g id="Ellipse_145" data-name="Ellipse 145" transform="translate(46.707 21.284)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+      <g id="Ellipse_146" data-name="Ellipse 146" transform="translate(39.704 27.136)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+      <g id="Ellipse_147" data-name="Ellipse 147" transform="translate(47.555 31.032)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+      <g id="Ellipse_150" data-name="Ellipse 150" transform="translate(46.707 40.079)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+      <g id="Ellipse_149" data-name="Ellipse 149" transform="translate(38.133 36.74)" fill="none" stroke="#000" stroke-width="1.5">
+        <ellipse cx="2.574" cy="2.574" rx="2.574" ry="2.574" stroke="none"></ellipse>
+        <ellipse cx="2.574" cy="2.574" rx="1.824" ry="1.824" fill="none"></ellipse>
+      </g>
+    </g>
+  </g>
+</svg>
+
+              <br>
+              <span> Insulated </span>
+              <br>
+        </div> This fabric excels at preventing the loss of heat and repelling the cold.
+ </div>
+
+
+
+16)Brushed Inner
+
+A plush liner fabric to allow next-to-skin wearability and improve insulation.
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;'
+ width="57.408" height="47" viewBox="0 0 57.408 47">
+  <g id="Brush_Lined_Icon" data-name="Brush Lined Icon" transform="translate(-1325.751 -263.895)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1326.158 263.895)" fill="none"></rect>
+    <path id="Path_625" data-name="Path 625" d="M0,0V57" transform="translate(1382.952 298.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_626" data-name="Path 626" d="M0,0V57" transform="translate(1382.751 286.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_2339" data-name="Path 2339" d="M0,0V57" transform="translate(1382.751 274.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <g id="Group_1698" data-name="Group 1698" transform="translate(0.03)">
+      <path id="Path_2380" data-name="Path 2380" d="M2066.97,3082.616v7.011" transform="translate(-737.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2385" data-name="Path 2385" d="M2066.97,3082.616v7.011" transform="translate(-722.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2388" data-name="Path 2388" d="M2066.97,3082.616v7.011" transform="translate(-697.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2381" data-name="Path 2381" d="M2066.97,3082.616v7.011" transform="translate(-732.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2390" data-name="Path 2390" d="M2066.97,3082.616v7.011" transform="translate(-707.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2384" data-name="Path 2384" d="M2066.97,3082.616v7.011" transform="translate(-717.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2387" data-name="Path 2387" d="M2066.97,3082.616v7.011" transform="translate(-692.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2382" data-name="Path 2382" d="M2066.97,3082.616v7.011" transform="translate(-727.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2389" data-name="Path 2389" d="M2066.97,3082.616v7.011" transform="translate(-702.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2383" data-name="Path 2383" d="M2066.97,3082.616v7.011" transform="translate(-712.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2386" data-name="Path 2386" d="M2066.97,3082.616v7.011" transform="translate(-687.548 -2790.637)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+
+              <br>
+              <span> Brushed Inner </span>
+              <br>
+        </div> A plush liner fabric to allow next-to-skin wearability and improve insulation.
+
+ </div>
+
+17)Fleece Lined
+
+Allowing next-to-skin wearability and superlative insulation in cold conditions.
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57.978" height="47" viewBox="0 0 57.978 47">
+  <g id="Fleece_Lined_Icon" data-name="Fleece Lined Icon" transform="translate(-1325.265 -263.895)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1326.158 263.895)" fill="none"></rect>
+    <path id="Path_625" data-name="Path 625" d="M0,0V57" transform="translate(1382.751 298.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_626" data-name="Path 626" d="M0,0V57" transform="translate(1382.751 286.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_2339" data-name="Path 2339" d="M0,0V57" transform="translate(1382.751 274.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <g id="Group_1696" data-name="Group 1696" transform="translate(1151.674 -2808.541)">
+      <path id="Path_2361" data-name="Path 2361" d="M1693.981,3054.525s.253,1.778,1.057,2.265,1.652-.457,2.839,0,.533,1.854.6,2.774a1.742,1.742,0,0,0,.847,1.627,2.89,2.89,0,0,0,1.555.239" transform="translate(-1518 41.41)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2375" data-name="Path 2375" d="M1693.981,3054.525s.253,1.778,1.057,2.265,1.652-.457,2.839,0,.533,1.854.6,2.774a1.742,1.742,0,0,0,.847,1.627,2.89,2.89,0,0,0,1.555.239" transform="translate(-1469.392 40.758)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2367" data-name="Path 2367" d="M1693.981,3054.525s.253,1.778,1.057,2.265,1.652-.457,2.839,0,.533,1.854.6,2.774a1.742,1.742,0,0,0,.847,1.627,2.89,2.89,0,0,0,1.555.239" transform="translate(-1490 44.872)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2368" data-name="Path 2368" d="M1693.981,3054.525s.253,1.778,1.057,2.265,1.652-.457,2.839,0,.533,1.854.6,2.774a1.742,1.742,0,0,0,.847,1.627,2.89,2.89,0,0,0,1.555.239" transform="matrix(0.875, -0.485, 0.485, 0.875, -2756.456, 1246.885)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2378" data-name="Path 2378" d="M1698.474,3059.564a1.742,1.742,0,0,0,.847,1.627,2.89,2.89,0,0,0,1.555.239" transform="translate(-870.335 -232.152) rotate(11)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2379" data-name="Path 2379" d="M0,0A1.742,1.742,0,0,0,.847,1.627,2.89,2.89,0,0,0,2.4,1.866" transform="translate(176.336 3100.166) rotate(77)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2366" data-name="Path 2366" d="M1693.981,3061.448s.253-1.778,1.057-2.265,1.652.457,2.839,0,.533-1.854.6-2.774a1.742,1.742,0,0,1,.847-1.627,2.89,2.89,0,0,1,1.555-.239" transform="translate(-1497.151 42.808)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2362" data-name="Path 2362" d="M0,0S.253,1.778,1.057,2.265s1.652-.457,2.839,0,.533,1.854.6,2.774A1.742,1.742,0,0,0,5.34,6.666a2.89,2.89,0,0,0,1.555.239" transform="translate(186.546 3098.301) rotate(66)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2374" data-name="Path 2374" d="M0,0S.253,1.778,1.057,2.265s1.652-.457,2.839,0,.533,1.854.6,2.774A1.742,1.742,0,0,0,5.34,6.666a2.89,2.89,0,0,0,1.555.239" transform="translate(223.546 3097.649) rotate(66)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2372" data-name="Path 2372" d="M0,0S.253,1.778,1.057,2.265s1.652-.457,2.839,0" transform="translate(202.969 3103.23) rotate(39)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2364" data-name="Path 2364" d="M0,0S.253,1.778,1.057,2.265s1.652-.457,2.839,0,.533,1.854.6,2.774A1.742,1.742,0,0,0,5.34,6.666a2.89,2.89,0,0,0,1.555.239" transform="translate(199.83 3098.06) rotate(116)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2376" data-name="Path 2376" d="M0,5.295c.8-.487,1.749-.18,2.936-.636s.533-1.854.6-2.774A1.742,1.742,0,0,1,4.379.257,2.89,2.89,0,0,1,5.934.018" transform="matrix(0.695, -0.719, 0.719, 0.695, 222.385, 3103.665)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2373" data-name="Path 2373" d="M0,0S.253,1.778,1.057,2.265s1.652-.457,2.839,0,.533,1.854.6,2.774A1.742,1.742,0,0,0,5.34,6.666a2.89,2.89,0,0,0,1.555.239" transform="translate(220.121 3101.373) rotate(116)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2369" data-name="Path 2369" d="M0,0S.272,1.944,1.135,2.476s1.773-.5,3.046,0,.572,2.027.64,3.032" transform="translate(194.542 3096.703) rotate(138)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2365" data-name="Path 2365" d="M0,6.923S.253,5.145,1.058,4.658s1.652.457,2.839,0,.533-1.854.6-2.774A1.742,1.742,0,0,1,5.34.257" transform="matrix(0.105, 0.995, -0.995, 0.105, 199.109, 3101.536)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2370" data-name="Path 2370" d="M0,6.122S.253,4.536,1.058,4.1s1.652.407,2.839,0,.533-1.654.6-2.475" transform="matrix(-0.017, -1, 1, -0.017, 174.928, 3107.653)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2363" data-name="Path 2363" d="M0,0S.253,1.778,1.058,2.265s1.652-.457,2.839,0,.533,1.854.6,2.774A1.742,1.742,0,0,0,5.34,6.666" transform="translate(188.849 3099.397) rotate(39)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2377" data-name="Path 2377" d="M3.9,2.265c1.187.457.533,1.854.6,2.774A1.742,1.742,0,0,0,5.34,6.666" transform="translate(220.308 3091.417) rotate(60)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+
+              <br>
+              <span> Fleece Lined </span>
+              <br>
+        </div> Allowing next-to-skin wearability and superlative insulation in cold conditions.
+
+ </div>
+
+
+
+
+18)Bonded Seams
+
+Minimises the weight of the garment, allows a flatter construction and reduces the risk of abrasion.
+div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;'
+ width="57" height="47" viewBox="0 0 57 47">
+  <g id="Bonded_Seams_Icon" data-name="Bonded Seams Icon" transform="translate(-1326.158 -263.895)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1326.158 263.895)" fill="none"></rect>
+    <g id="Group_1710" data-name="Group 1710" transform="translate(840.7 -2972.208)">
+      <g id="Polygon_4" data-name="Polygon 4" transform="translate(496.508 3237)" fill="none">
+        <path d="M14.636,0l4.879,8.909-4.879,8.909H4.879L0,8.909,4.879,0Z" stroke="none"></path>
+        <path d="M 5.767565727233887 1.500001907348633 L 1.710184097290039 8.909123420715332 L 5.767556190490723 16.3182430267334 L 13.74766635894775 16.3182430267334 L 17.80503845214844 8.909122467041016 L 13.74766635894775 1.500001907348633 L 5.767565727233887 1.500001907348633 M 4.878810882568359 1.9073486328125e-06 L 14.63642120361328 1.9073486328125e-06 L 19.51522064208984 8.909122467041016 L 14.63642120361328 17.8182430267334 L 4.878801345825195 17.8182430267334 L 1.9073486328125e-06 8.909122467041016 L 4.878810882568359 1.9073486328125e-06 Z" stroke="none" fill="#000"></path>
+      </g>
+      <g id="Polygon_5" data-name="Polygon 5" transform="translate(510.084 3245.485)" fill="none">
+        <path d="M14.636,0l4.879,8.909-4.879,8.909H4.879L0,8.909,4.879,0Z" stroke="none"></path>
+        <path d="M 5.767565727233887 1.500001907348633 L 1.710184097290039 8.909123420715332 L 5.767556190490723 16.3182430267334 L 13.74766635894775 16.3182430267334 L 17.80503845214844 8.909122467041016 L 13.74766635894775 1.500001907348633 L 5.767565727233887 1.500001907348633 M 4.878810882568359 1.9073486328125e-06 L 14.63642120361328 1.9073486328125e-06 L 19.51522064208984 8.909122467041016 L 14.63642120361328 17.8182430267334 L 4.878801345825195 17.8182430267334 L 1.9073486328125e-06 8.909122467041016 L 4.878810882568359 1.9073486328125e-06 Z" stroke="none" fill="#000"></path>
+      </g>
+      <g id="Polygon_6" data-name="Polygon 6" transform="translate(496.508 3253.545)" fill="none">
+        <path d="M14.636,0l4.879,8.909-4.879,8.909H4.879L0,8.909,4.879,0Z" stroke="none"></path>
+        <path d="M 5.767565727233887 1.500001907348633 L 1.710184097290039 8.909123420715332 L 5.767556190490723 16.3182430267334 L 13.74766635894775 16.3182430267334 L 17.80503845214844 8.909122467041016 L 13.74766635894775 1.500001907348633 L 5.767565727233887 1.500001907348633 M 4.878810882568359 1.9073486328125e-06 L 14.63642120361328 1.9073486328125e-06 L 19.51522064208984 8.909122467041016 L 14.63642120361328 17.8182430267334 L 4.878801345825195 17.8182430267334 L 1.9073486328125e-06 8.909122467041016 L 4.878810882568359 1.9073486328125e-06 Z" stroke="none" fill="#000"></path>
+      </g>
+      <g id="Polygon_7" data-name="Polygon 7" transform="translate(510.084 3262.03)" fill="none">
+        <path d="M14.636,0l4.879,8.909-4.879,8.909H4.879L0,8.909,4.879,0Z" stroke="none"></path>
+        <path d="M 5.767565727233887 1.500001907348633 L 1.710184097290039 8.909123420715332 L 5.767556190490723 16.3182430267334 L 13.74766635894775 16.3182430267334 L 17.80503845214844 8.909122467041016 L 13.74766635894775 1.500001907348633 L 5.767565727233887 1.500001907348633 M 4.878810882568359 1.9073486328125e-06 L 14.63642120361328 1.9073486328125e-06 L 19.51522064208984 8.909122467041016 L 14.63642120361328 17.8182430267334 L 4.878801345825195 17.8182430267334 L 1.9073486328125e-06 8.909122467041016 L 4.878810882568359 1.9073486328125e-06 Z" stroke="none" fill="#000"></path>
+      </g>
+      <path id="Path_2441" data-name="Path 2441" d="M2050.376,3257.5h-5.624" transform="translate(-1516.212 -3.106)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2442" data-name="Path 2442" d="M2048.623,3257.5h-3.871" transform="translate(-1516.212 13.015)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2443" data-name="Path 2443" d="M2048.623,3257.5h-3.871" transform="translate(-1551 4.955)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2444" data-name="Path 2444" d="M4.532,0H0" transform="translate(523.95 3279) rotate(45)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2445" data-name="Path 2445" d="M4.532,0H0" transform="translate(515.276 3279) rotate(135)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+
+              <br>
+              <span> Bonded Seams </span>
+              <br>
+        </div> Minimises the weight of the garment, allows a flatter construction and reduces the risk of abrasion.
+
+
+ </div>
+
+19)Abrasion Resistant
+
+A durable fabric construction to withstand friction and pilling in known hotspots.
+ <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57.532" height="47" viewBox="0 0 57.532 47">
+  <g id="Abrasion_Resistant_Icon" data-name="Abrasion Resistant Icon" transform="translate(-1325.627 -263.895)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1326.158 263.895)" fill="none"></rect>
+    <path id="Path_625" data-name="Path 625" d="M0,0V57" transform="translate(1382.952 298.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_626" data-name="Path 626" d="M0,0V57" transform="translate(1382.751 286.99) rotate(90)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_2478" data-name="Path 2478" d="M1327.55,299.005l2.476-11.659,2.615,11.659,2.926-11.659,2.535,11.659,2.778-11.659,2.634,11.659,2.611-11.659,2.953,11.659,2.525-11.659,2.849,11.659,3.211-11.659,2.348,11.659,2.962-11.659,2.223,11.659,2.912-11.659,2.636,11.659,3.458-11.659,2.3,11.659" transform="translate(2.199 0.048)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Path_2495" data-name="Path 2495" d="M2672,3224.958s3.261-.547,5.209.769,3.843,2.86,6.461,2.86,2.778-.24,5.042-1.354,3.312-2.356,6.286-2.276,3.651.74,5.339,1.647,3.033,1.973,5.606,1.983,4.278-1.209,5.788-1.983,2.454-1.669,5.425-1.647,3.582.758,5.177,1.647,2.482,1.7,4.053,1.983a4.754,4.754,0,0,0,2.326,0" transform="translate(-1346.249 -2949.105)" fill="none" stroke="#000" stroke-width="1.5"></path>
+  </g>
+</svg>
+
+              <br>
+              <span> Abrasion Resistant </span>
+              <br>
+        </div> A durable fabric construction to withstand friction and pilling in known hotspots.
+
+
+ </div>
+
+
+20)Wind Breaking
+
+Protection from blustery, chilly conditions maintaining on-run warmth.
+
+ <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+<svg xmlns="http://www.w3.org/2000/svg" style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Wind_Breaking_Icon" data-name="Wind Breaking Icon" transform="translate(-1095.463 -326.467)">
+    <rect id="Rectangle_659" data-name="Rectangle 659" width="57" height="47" transform="translate(1095.463 326.467)" fill="none"></rect>
+    <path id="Path_617" data-name="Path 617" d="M5769.043,327.792V372.2" transform="translate(-4619.233 0.09)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_618" data-name="Path 618" d="M5721.367,363.355h12.354" transform="translate(-4619.267 0.114)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_619" data-name="Path 619" d="M.013,7a12.969,12.969,0,0,0,.27,1.938A6.916,6.916,0,0,0,7.018,14.01,7,7,0,1,0,7.018,0h-26.23" transform="translate(1120.233 354.608)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_620" data-name="Path 620" d="M-.226,8.247a8.247,8.247,0,1,1,8.247,8.247H-8.634" transform="translate(1107.481 331.609)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    <path id="Path_621" data-name="Path 621" d="M0,5.19a5.19,5.19,0,1,1,5.19,5.19H-4.082" transform="translate(1130.751 337.723)" fill="none" stroke="#000" stroke-width="1.5"></path>
+  </g>
+</svg>
+
+              <br>
+              <span> Wind Breaking </span>
+              <br>
+        </div> Protection from blustery, chilly conditions maintaining on-run warmth.
+
+ </div>
+
+21)Trail Race Compliant
+
+This garment meets the standard requirements for use in trail running events.
+
+<div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57.728" height="47" viewBox="0 0 57.728 47">
+  <g id="Trail_Race_Compliant_Icon" data-name="Trail Race Compliant Icon" transform="translate(-1326.158 -263.895)">
+    <rect id="Rectangle_673" data-name="Rectangle 673" width="57" height="47" transform="translate(1326.158 263.895)" fill="none"></rect>
+    <g id="Group_1708" data-name="Group 1708" transform="translate(-1)">
+      <g id="Group_1707" data-name="Group 1707" transform="translate(1332.986 264.873)">
+        <g id="Ellipse_154" data-name="Ellipse 154" transform="translate(17.806)" fill="none" stroke="#000" stroke-width="1.5">
+          <circle cx="4.047" cy="4.047" r="4.047" stroke="none"></circle>
+          <circle cx="4.047" cy="4.047" r="3.297" fill="none"></circle>
+        </g>
+        <path id="Path_2430" data-name="Path 2430" d="M1795.23,3222.9l-4.315,11.239" transform="translate(-1774.984 -3213.507)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2431" data-name="Path 2431" d="M1782.792,3229.461s.477-4.591,4.45-6.493a6.988,6.988,0,0,1,6.767,0" transform="translate(-1774.166 -3213.02)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2432" data-name="Path 2432" d="M11.216,0s-.477,4.591-4.45,6.493A6.988,6.988,0,0,1,0,6.493" transform="matrix(0.914, 0.407, -0.407, 0.914, 22.268, 4.781)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2433" data-name="Path 2433" d="M1799.39,3240.819l-1.551,10.391" transform="translate(-1775.682 -3214.465)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2434" data-name="Path 2434" d="M.682,0,0,8.393" transform="translate(8.12 26.791) rotate(110)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2435" data-name="Path 2435" d="M1790.914,3234.669a10.132,10.132,0,0,1,5.516,2.1,5.912,5.912,0,0,1,2.248,4.021" transform="translate(-1774.984 -3214.283)" fill="none" stroke="#000" stroke-width="1.5"></path>
+        <path id="Path_2436" data-name="Path 2436" d="M0,0A8.576,8.576,0,0,1,5.4,2.656C7.581,5.122,6.542,8.574,6.542,8.574" transform="translate(15.961 20.386) rotate(87)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      </g>
+      <path id="Path_2430-2" data-name="Path 2430" d="M1767.559,3259.57h4.555l16.266-9.54,7.828,4.4,4.4-2.394h6.127l12.095-14.951h6.158" transform="translate(-440.105 -2949.654)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+
+              <br>
+              <span> Trail Race Compliant </span>
+              <br>
+        </div> This garment meets the standard requirements for use in trail running events.
+
+ </div>
+
+
+22)Stretch Woven Fabric
+
+Fabric construction that adds elasticity and enhances comfort in structured garments.
+
+  <div class="grid-item ">
+      <div style=' text-align: center;  margin: auto; margin-bottom: 10px;' >
+       
+
+<svg xmlns="http://www.w3.org/2000/svg"  style='display: flex; margin:auto;  align-items:center; text-align:center;' width="57" height="47" viewBox="0 0 57 47">
+  <g id="Stretch_Woven_Fabric_Icon" data-name="Stretch Woven Fabric Icon" transform="translate(-1145.349 -1070.306)">
+    <rect id="Rectangle_680" data-name="Rectangle 680" width="57" height="47" transform="translate(1145.349 1070.306)" fill="none"></rect>
+    <path id="Path_2447" data-name="Path 2447" d="M1152.977,1073.047a79.531,79.531,0,0,0,20.993,3.376,75.726,75.726,0,0,0,20.673-3.376,80.816,80.816,0,0,0-3.315,20.911,74.307,74.307,0,0,0,3.315,20.368,68.978,68.978,0,0,0-20.673-3.752c-10.416,0-20.993,3.752-20.993,3.752a69.979,69.979,0,0,0,3.546-20.368C1156.523,1083.638,1152.977,1073.047,1152.977,1073.047Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.5"></path>
+    <g id="Group_1713" data-name="Group 1713" transform="translate(1191.087 1104.219) rotate(135)">
+      <path id="Path_2448" data-name="Path 2448" d="M0,37.764V0" transform="translate(4.942 0.184)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2449" data-name="Path 2449" d="M0,0,4.964,6.657,9.885,0" transform="translate(0 32.679)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2450" data-name="Path 2450" d="M0,6.657,4.964,0,9.885,6.657" transform="translate(0 0)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+    <g id="Group_1712" data-name="Group 1712" transform="translate(1120.143 -525.303) rotate(45)">
+      <path id="Path_2451" data-name="Path 2451" d="M5769.043,327.792v37.764" transform="translate(-4586.3 760.951)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2452" data-name="Path 2452" d="M1347.045,271.526l4.964-6.657,4.921,6.657" transform="translate(-169.244 822.487)" fill="none" stroke="#000" stroke-width="1.5"></path>
+      <path id="Path_2453" data-name="Path 2453" d="M1347.045,264.869l4.964,6.657,4.921-6.657" transform="translate(-169.244 855.166)" fill="none" stroke="#000" stroke-width="1.5"></path>
+    </g>
+  </g>
+</svg>
+
+              <br>
+              <span> Stretch Woven Fabric </span>
+              <br>
+        </div> Fabric construction that adds elasticity and enhances comfort in structured garments.
+
+ </div>
